@@ -39,32 +39,32 @@
 "OWNER_NAME" :{
     "description" : "Owner Name",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "ALI BHAI"
 },
     "OWNER_NUMBER" :{
     "description" : "Owner Number",
     "required" : true,
-  "value" : "+44 7441 466940"
+  "value" : "+917398833396"
 },
     "SONG_DOWN" :{
     "description" : "Song downloading txt",
     "required" : true,
-  "value" : "*📥 ඔබේ ගීතය Download කරමින් පවතී...*"
+  "value" : "*📥 BC JALDI Download KAR...*"
 },
         "SONG_UP" :{
     "description" : "Song uploading txt",
     "required" : true,
-  "value" : "*📤 ඔබේ ගීතය Upload කරමින් පවතී...*"
+  "value" : "*📤 BC JALDI UPLOAD KAR...*"
 },
             "VIDEO_DOWN" :{
     "description" : "video down txt",
     "required" : true,
-  "value" : "*📥 ඔබේ වීඩියෝව Download කරමින් පවතී...*"
+  "value" : "*📥 JALDI VIDEO DownloaD KAR...*"
 },
                 "VIDEO_UP" :{
     "description" : "video up txt",
     "required" : true,
-  "value" : "*📤 ඔබේ වීඩියෝව Upload කරමින් පවතී...*"
+  "value" : "*📤 RUKJAA Upload HO RAHI...*"
 },
                         "FILE_DOWN" :{
     "description" : "video up txt",
